@@ -100,7 +100,7 @@ class App extends Component {
             <div className="col-xs-12 col-sm-12 col-md-5 col-lg-5 App-intro">
               <h2>Welcome to FlickrPicPicker!</h2>
               <p>
-                FlickrPicPicker is a search engine that allows you to search photographs by month and by year, specifically from NASA's account.
+                FlickrPicPicker is a search engine that allows you to search photographs by month, year and keyword, specifically from NASA's account.
                 All the photos come from Flickr and are searchable as long as they exist under NASA's account at the time of search.
               </p>
               <h2>How does it work?</h2>
