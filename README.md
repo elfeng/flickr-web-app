@@ -1,7 +1,7 @@
 
 # FlickrPicPicker
 
-A React.js web app that fetches images from Nasa's account via the Flickr API [Flickr API](https://www.flickr.com/services/api) and enables search of photographs by month, year and keyword.
+A React.js web app that fetches images from Nasa's account via the [Flickr API](https://www.flickr.com/services/api) and enables search of photographs by month, year and keyword.
 
 ## Used technologies
 
