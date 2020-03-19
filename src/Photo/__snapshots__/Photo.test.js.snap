@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match the snapshot 1`] = `
+<div
+  className="photo"
+>
+  <a
+    href="https://www.flickr.com/photos/21668212@N02/25277702294"
+  >
+    <img
+      alt="alpagas at sajama"
+      src="https://farm2.staticflickr.com/1658/25277702294_3514fc66de.jpg"
+    />
+    <div>
+      April 1, 2015
+    </div>
+  </a>
+</div>
+`;
