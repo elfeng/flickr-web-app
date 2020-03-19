@@ -18,3 +18,6 @@ In the project directory, run:
 ### `npm start`
 
 Hit [http://localhost:3000](http://localhost:3000) in the browser.
+
+![earth-related photos in February 2020](https://github.com/elfeng/flickr-web-app/blob/master/screenshots/image2.png)
+![rocket-related photos in October 2011](https://github.com/elfeng/flickr-web-app/blob/master/screenshots/image1.png)
